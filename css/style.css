@@ -2,47 +2,67 @@ body {
   max-width: 1400px;
 }
 /* 
-================= STYLE TO main-conteiner ================    
+================= STYLE TO home-conteiner ================    
 */
-.main-conteiner {
+.home-conteiner {
 }
-/* END Block main-conteiner*/
+.logo-block {
+  display: flex;
+  margin: 0 auto;
+}
+.logo {
+  width: 30%;
+  margin: 0 auto;
+  padding: 10px 10px 10px 10px;
+}
+.menu-block {
+}
+.menu {
+}
+.menu-item {
+  display: inline;
+}
+/* END Block home-conteiner*/
 
 /* 
-================= STYLE TO portfolio-conteiner ================    
+================= STYLE TO about-us-conteiner ================    
 */
-.portfolio-conteiner {
+.about-us-conteiner {
 }
-/* END Block portfolio-conteiner*/
+/* END Block about-us-conteiner*/
 
 /* 
-================= STYLE TO work-conteiner ================    
+================= STYLE TO blog-conteiner ================    
 */
-.work-conteiner {
+.blog-conteiner {
 }
-/* END Block work-conteiner*/
+/* END Block blog-conteiner*/
 
 /* 
-================= STYLE TO testi-conteiner ================    
+================= STYLE TO service-conteiner ================    
 */
-.testi-conteiner {
+.service-conteiner {
 }
-/* END Block testi-conteiner*/
+/* END Block service-conteiner*/
 
 /* 
-================= STYLE TO social-conteiner ================    
+================= STYLE TO pages-conteiner ================    
 */
-.social-conteiner {
+.pages-conteiner {
+  background-color: #599dd8;
+  padding: 10px 10px 10px 10px;
 }
 .social-page-list {
 }
-.social-page-item {
+.social-page-list-item {
+  display: inline;
+  margin: 0 auto;
 }
 .social-page-link {
 }
 .social-page-img {
 }
-/* END Block social-conteiner*/
+/* END Block pages-conteiner*/
 
 /* 
 ================= STYLE TO contacts-conteiner ================    
